@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jiri 👋
+
+[![Linkedin: jiritichy](https://img.shields.io/badge/-Jiri_Tichy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jirkatichy/)](https://www.linkedin.com/in/jirkatichy/)
+
+- 🔭 We help developers fight technical debt with [Codeac.io](https://www.codeac.io).
+- 🌱 I’m currently learning basics of HTML and CSS.
+- 💬 Ask me about Code Quality.
+
+
 
 <!--
 **jiritichy/jiritichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
